@@ -7,7 +7,7 @@ import java.awt.event.*;
 
 public class Tabuleiro2 extends JFrame {
 	JLabel[] celula = new JLabel[64];
-
+//teste comitt
 	public Tabuleiro2() {
 		setTitle("Xadrez TADS");
 		setSize(580, 550);
