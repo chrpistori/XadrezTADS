@@ -1,0 +1,7 @@
+abstract Peça
+	- método que Valida o movimento
+
+Todas herdam de Peça
+
+Posição X Y:
+Divide a posição por 8: resultado é a linha e o resto a coluna.
