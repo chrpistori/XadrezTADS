@@ -7,6 +7,8 @@ import javax.swing.*;
 import java.awt.event.*;
 import java.util.ArrayList;
 
+// Código do Marcelo Mazurky
+
 public class NewClass extends JFrame {
     /**
 	 * 
